@@ -21,7 +21,7 @@ A powerful Streamlit application that evaluates how well your resume matches a j
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Lokeessshhh/Resume_ATS_Score_Checker.git
+   git clone https://github.com/CodyNerd/Resume_ATS_Score_Checker.git
    cd Resume_ATS_Score_Checker
    ```
 
