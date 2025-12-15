@@ -179,10 +179,6 @@ Feel free to submit issues, feature requests, or pull requests to improve this t
 
 For deployment instructions (Streamlit Cloud, Heroku, Docker, etc.), see [DEPLOYMENT.md](DEPLOYMENT.md).
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## ⚠️ Disclaimer
 
 This tool provides AI-powered suggestions for resume improvement. Always review and customize recommendations based on your specific situation and the actual job requirements. The ATS score is an estimate and may not reflect the exact scoring of all ATS systems.
